@@ -5,10 +5,10 @@
 // |  TAB  |  Q   |  W   |  E   |  R   |  T   |                      |  Y   |  U    |  I    |  O   |   P   |   -   |
 // |       |      |      |      |      |      |                      |      |       |       |      |       |   _   |
 
-// | SHIFT |  A   |  S   |  D   |  F   |  G   |                      |  H   |  J    |  K    |  L   |   ;   |   '   |
+// |  CTRL |  A   |  S   |  D   |  F   |  G   |                      |  H   |  J    |  K    |  L   |   ;   |   '   |
 // |       |      |      |      |      |      |                      |      |       |       |      |   :   |   "   |
 
-// |  CTRL |  Z   |  X   |  C   |  V   |  B   |   "["  |     |  "]"  |  N   |  M    |  ,    |  .   |   /   | SHIFT |
+// | SHIFT |  Z   |  X   |  C   |  V   |  B   |   "["  |     |  "]"  |  N   |  M    |  ,    |  .   |   /   | SHIFT |
 // |       |      |      |      |      |      |   "{"  |     |  "}"  |      |       |  <    |  >   |   ?   |       |
 
 //                       | ALT  | GUI  | LOWER|  SPACE |     | ENTER | RAISE| BSPC  | GUI   |
